@@ -1,0 +1,71 @@
+{
+  "customer": [
+
+    {
+      "id": "4b57",
+      "customer": {
+        "name": {
+          "title": "Mr",
+          "first": "John",
+          "initials": "K",
+          "last": "Doe"
+        },
+        "address": {
+          "streetAddress": "123 Main St",
+          "streetAddress2": "Apt 4",
+          "city": "Metropolis",
+          "region": "NY",
+          "postalCode": "12345",
+          "country": "USA"
+        },
+        "phone": "123-456-7890",
+        "email": "john.doe@example.com",
+        "dob": "01/01/1980"
+      }
+    },
+    {
+      "id": "8c32",
+      "customer": {
+        "name": {
+          "title": "Ms",
+          "first": "Jane",
+          "initials": "R",
+          "last": "Smith"
+        },
+        "address": {
+          "streetAddress": "456 Elm St",
+          "streetAddress2": "Suite 5",
+          "city": "Gotham",
+          "region": "NJ",
+          "postalCode": "67890",
+          "country": "USA"
+        },
+        "phone": "987-654-3210",
+        "email": "jane.smith@example.com",
+        "dob": "02/02/1990"
+      }
+    },
+    {
+      "id": "7d18",
+      "customer": {
+        "name": {
+          "title": "Dr",
+          "first": "Emily",
+          "initials": "W",
+          "last": "Johnson"
+        },
+        "address": {
+          "streetAddress": "789 Pine St",
+          "streetAddress2": "Apt 10",
+          "city": "Star City",
+          "region": "CA",
+          "postalCode": "13579",
+          "country": "USA"
+        },
+        "phone": "654-321-0987",
+        "email": "emily.johnson@example.com",
+        "dob": "03/03/1975"
+      }
+    }
+  ]
+}

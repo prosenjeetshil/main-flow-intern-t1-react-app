@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 export default function NavBar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light px-4">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-4">
       {/* Brand Logo */}
       <NavLink className="navbar-brand fw-bold" to="/">
         Customer Management
